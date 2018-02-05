@@ -2,8 +2,8 @@ import EventBus from '../helpers/event-bus.js';
 
 export default {
     methods: {
-        client_id: "b6df99a66f8d4d2485471b56f27bc2ea",
-        client_secret: "ddb328d4b9fe438f8354b06d02a4e8a2",
+        client_id: "please_enter_client_id",
+        client_secret: "client_secret",
 
         //TODO: refactor this method after auth will be added functionality
         getCredentials(){
